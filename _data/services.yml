@@ -1,0 +1,9 @@
+- menu_name: "Services"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "Grant Details"
+  url: "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026723/1"
+  title: "Grant Details"

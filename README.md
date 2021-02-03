@@ -1,2 +1,1 @@
-# secure-ai-assistants.github.io
-Public website
+# Secure AI Assistants Project Website

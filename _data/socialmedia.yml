@@ -1,0 +1,9 @@
+- name: GitHub
+  url: http://github.com/secure-ai-assiatants
+  class: icon-github
+  title: Code
+
+- name: 
+  url: https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T026723/1
+  class: icon-price-tag
+  title: "Grant Information"

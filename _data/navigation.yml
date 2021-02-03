@@ -1,0 +1,16 @@
+- title: SAIS
+  url: "/"
+  side: left
+
+- title: Overview
+  url: "/project/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+
+- title: People
+  url: "/people/"
+  side: left
+
