@@ -17,7 +17,7 @@ slogan: 'SAIS - Secure AI Assistants'
 description: 'The Secure AI Assistants project (SAIS) aims to provide an understanding the attack surface of AI assistants, resulting in novel specification and verification techniques for AIS. It will also produce novel methods to reason about and audit the expected behaviour of AIS and provide co-created security explanations to increase users'' literacy of AIS security.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Copyright William Seymour 2021.<br/>Using <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> and pictures from <a href="https://www.flickr.com/photos/wfryer/">wfryer</a></p>'
+credits: '<p>Copyright William Seymour 2021.<br/>Using <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> and pictures from <a href="https://www.flickr.com/photos/wfryer/">wfryer</a> and <a href="https://www.flickr.com/photos/diversey/">Tony Webster</a></p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,8 +25,8 @@ author: wseymour
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'http://localhost:4000'
-url: 'https://secure-ai-assistants.github.io'
+url: 'http://localhost:4000'
+  #url: 'https://secure-ai-assistants.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -39,8 +39,8 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-#urlimg: 'http://localhost:4000/images/'
-urlimg: 'http://secure-ai-assistants.github.io/images/'
+urlimg: 'http://localhost:4000/images/'
+  #urlimg: 'http://secure-ai-assistants.github.io/images/'
 
 
 # Logo size is 600x80 pixels

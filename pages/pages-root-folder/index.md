@@ -5,17 +5,17 @@ header:
 widget1:
   title: "Overview"
   url: '/project/'
-  image: stock-overview.jpg
+  image: stock-alexa-mute.jpg
   text: 'Objectives, partners, and planned work.'
 widget2:
   title: "Blog"
   url: '/blog/'
   image: stock-blog.jpg
-  text: 'Latest updates and publications.'
+  text: 'Latest news and updates.'
 widget3:
   title: "People"
   url: '/people/'
-  image: stock-people.jpg
+  image: stock-network.jpg
   text: 'The people working on the SAIS project.'
 
 callforaction:

@@ -7,3 +7,14 @@
 #frontpage-blog-h2 {
 	margin-top: 0px;
 }
+
+.logo {
+	margin-bottom: 1.25rem;
+	text-align: center;
+}
+
+.imglink {
+	#background-image: url(https://secure-ai-assistants.github.io/images/epsrc.png);
+	background-image: url(localhost:4000/images/epsrc.png);
+	height: 100px;
+}

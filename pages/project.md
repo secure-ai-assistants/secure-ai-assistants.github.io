@@ -17,3 +17,14 @@ permalink: "/project/"
 <p>SAIS (Secure AI assistantS) is a cross-disciplinary collaboration between the Departments of Informatics, Digital Humanities and The Policy Institute at King's College London, and the Department of Computing at Imperial College London, working with non-academic partners: Microsoft, Humley, Hospify, Mycroft, policy and regulation experts, and the general public, including non-technical users. SAIS will provide an understanding of attacks on AIS considering the whole AIS ecosystem, the AI models used in them, and all the stakeholders involved, particularly focusing on the feasibility and severity of potential attacks on AIS from a strategic threat and risk approach. Based on this understanding, SAIS will propose methods to specify, verify and monitor the security behaviour of AIS based on model- based AI techniques known to provide richer foundations than data-driven ones for explanations on the behaviour of AI-based systems. This will result in a multifaceted approach, including: a) novel specification and verification techniques for AIS, such as methods to verify the machine learning models used by AIS; b) novel methods to dynamically reason about the expected behaviour of AIS to be able to audit and detect any degradation or deviation from that expected behaviour based on normative systems and data provenance; iii) co-created security explanations following a techno-cultural method to increase users' literacy of AIS security in a way that users can comprehend.</p>
   </div>
 </div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <p><b>SAIS is funded by the Engineering and Physical Sciences Research Council</b></p>
+  </div>
+</div>
+<div class="row">
+  <div class="small-12 columns logo">
+    <img src="{{url}}/images/epsrc.png">
+  </div>
+</div>
