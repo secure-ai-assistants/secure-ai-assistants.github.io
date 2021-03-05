@@ -8,7 +8,7 @@ widget1:
   image: stock-alexa-mute.jpg
   text: 'Objectives, partners, and planned work.'
 widget2:
-  title: "Blog"
+  title: "News"
   url: '/blog/'
   image: stock-blog.jpg
   text: 'Latest news and updates.'
