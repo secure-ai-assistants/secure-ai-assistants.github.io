@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Open Position"
+subheadline: "Position now closed"
 title: "SAIS is recruiting a research associate in the security of ML-based personal assistants"
 teaser: "We are seeking to hire an outstanding Research Assistant/Associate to join the Verification of Autonomous Systems (VAS) group, led by Prof. Alessio Lomuscio. The VAS group is a friendly, vibrant, multi-national team working on various aspects of safe Artificial Intelligence, including verification and safety aspects of machine learning systems, autonomous systems, swarm-based systems, robustness and safe reinforcement learning. The group also contributes to US-funded projects on Assured Autonomy and has strong links with the UKRI Centre for Doctoral Training in Safe and Trusted Artificial Intelligence."
 categories:
@@ -23,6 +23,7 @@ image:
 mediaplayer: false
 author: wseymour
 ---
+Please note: this position is no longer being recruited for.
 
 Full-time, fixed term to start ASAP until 30 November 2023 at the South Kensington Campus.
 
