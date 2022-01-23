@@ -21,8 +21,8 @@ permalink: "/publications/"
 
 <div class="row">
   <div class="small-12 columns">
-	<h4>SkillVet: Automated Traceability Analysis of Amazon Alexa Skills <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/edu2021skillvet.pdf"></a>  <a class="icon-globe" href="https://nms.kcl.ac.uk/hasp/pubs.html"></a></h4>
-	<p>Jide Edu, Xavier Ferrer-Aran, Jose Such, and Guillermo Suarez-Tangil. 2021. IEEE Transactions on Dependable and Secure Computing (TDSC).</p>
+	<h4>SkillVet: Automated Traceability Analysis of Amazon Alexa Skills <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/edu2021skillvet.pdf"></a>  <a class="icon-globe" href="https://doi.ieeecomputersociety.org/10.1109/TDSC.2021.3129116"></a></h4>
+	<p>Jide Edu, Xavier Ferrer-Aran, Jose Such, and Guillermo Suarez-Tangil. 2021. IEEE Transactions on Dependable and Secure Computing (TDSC). DOI 10.1109/TDSC.2021.3129116</p>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ permalink: "/publications/"
 
 <div class="row">
   <div class="small-12 columns">
-	<h4>Privacy Norms in Smarthome Personal Assistants <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/SPA-privacy-norms.pdf"></a>  <a class="icon-globe" href="https://nms.kcl.ac.uk/hasp/pubs.html"></a></h4>
+	<h4>Privacy Norms in Smarthome Personal Assistants <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/SPA-privacy-norms.pdf"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3411764.3445122"></a></h4>
 	<p>Noura Abdi, Xiao Zhan, Kopo Ramokapane, Jose Such. 2021. In Proceedings of ACM Conference on Human Factors in Computing Systems (CHI), Article N. 558, pp. 1-14.</p>
   </div>
 </div>
