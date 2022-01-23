@@ -19,8 +19,6 @@ permalink: "/publications/"
   </div>
 </div>
 
-Jide Edu, Xavier Ferrer-Aran, Jose Such, and Guillermo Suarez-Tangil. SkillVet: Automated Traceability Analysis of Amazon Alexa Skills. IEEE Transactions on Dependable and Secure Computing (TDSC), 2021.
-
 <div class="row">
   <div class="small-12 columns">
 	<h4>SkillVet: Automated Traceability Analysis of Amazon Alexa Skills <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/edu2021skillvet.pdf"></a>  <a class="icon-globe" href="https://nms.kcl.ac.uk/hasp/pubs.html"></a></h4>
