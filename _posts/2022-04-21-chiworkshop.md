@@ -23,6 +23,7 @@ image:
 mediaplayer: false
 author: wseymour
 ---
+Read the full paper [here](https://arxiv.org/abs/2204.10058).
 
 A vital aspect of the software marketplaces available on today's smart devices, including voice assistants (VAs), is the way that sharing of personal data with third parties is managed. Consent has emerged as the primary means of managing this relationship with skill developers, and is intended to allow users to decide for themselves what they are willing to share when using third party skills. The growing ubiquity and pervasiveness of these devices - that are often able to listen to everything said in the home - mirrors wider concerns in the Ubicomp community around the information on which users are expected to decide whether or not to grant consent.
 
