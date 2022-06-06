@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "Open Position"
+subheadline: "Position Now Closed"
 title: "SAIS is recruiting a research associate in symbolic AI and/or multi-agent systems"
 teaser: "This two-year post will focus on symbolic and norm-based AI models to specify, dynamically monitor, and explain the desirable behaviour of AI assistants."
 categories:

@@ -11,10 +11,16 @@ permalink: "/publications/"
 {% assign url = site.baseurl | prepend: site.url %}
 
 
+<div class="row">
+  <div class="small-12 columns">
+	<h4>Consent on the Fly: Developing Ethical Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2204.10058"></a>  <a class="icon-globe" href="https://www.conversationaluserinterfaces.org/workshops/CHI2022/pdfs/seymour_voice-based-consent.pdf"></a></h4>
+	<p>William Seymour, Mark Cote, and Jose Such. 2022. Ethics of Conversational User Interfaces workshop at CHI 2022.</p>
+  </div>
+</div>
 
 <div class="row">
   <div class="small-12 columns">
-	<h4>Measuring Alexa Skill Privacy Practices across Three Years <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/edu2022measuring.pdf"></a>  <a class="icon-globe" href="https://nms.kcl.ac.uk/hasp/pubs.html"></a></h4>
+	<h4>Measuring Alexa Skill Privacy Practices across Three Years <a class="icon-archive" href="https://nms.kcl.ac.uk/hasp/pubs/edu2022measuring.pdf"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3485447.3512289"></a></h4>
 	<p>Jide Edu, Xavier Ferrer-Aran, Jose Such, and Guillermo Suarez-Tangil. 2022. In Proceedings of the Web Conference (WWW), pp. 1-8.</p>
   </div>
 </div>
