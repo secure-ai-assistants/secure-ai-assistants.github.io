@@ -10,6 +10,26 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
+<div class="row">
+  <div class="small-12 columns">
+	<h4>Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <!--<a class="icon-archive" href=""></a>  <a class="icon-globe" href=""></a>--></h4>
+	<p>William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the ACM on Human-Computer Interaction, CSCW1, April 2023 issue.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+	<h4>Can you meaningfully consent in eight seconds? Identifying Ethical Issues with Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2206.11027"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3543829.3544521"></a></h4>
+	<p>William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the 4th Conference on Conversational User Interfaces (CUI 2022).</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+	<h4>When It's Not Worth the Paper It's Written On: A Provocation on the Certification of Skills in the Alexa and Google Assistant Ecosystems <a class="icon-archive" href="https://arxiv.org/abs/2206.11035"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3543829.3544513"></a></h4>
+	<p>William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the 4th Conference on Conversational User Interfaces (CUI 2022).</p>
+  </div>
+</div>
 
 <div class="row">
   <div class="small-12 columns">
