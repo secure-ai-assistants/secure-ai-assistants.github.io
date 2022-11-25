@@ -12,7 +12,7 @@ permalink: "/publications/"
 
 <div class="row">
   <div class="small-12 columns">
-	<h4>Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <!--<a class="icon-archive" href=""></a>  <a class="icon-globe" href=""></a>--></h4>
+	<h4>Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.12900"></a>  <!--<a class="icon-globe" href=""></a>--></h4>
 	<p>William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the ACM on Human-Computer Interaction, CSCW1, April 2023 issue.</p>
   </div>
 </div>
