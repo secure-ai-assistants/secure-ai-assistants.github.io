@@ -14,6 +14,10 @@
   url: "/blog/"
   side: left
 
+- title: Outreach
+  url: "/outreach/"
+  side: left
+
 - title: People
   url: "/people/"
   side: left
