@@ -25,5 +25,5 @@ Coming this January 2023.
 Be part of the conversation - we would love to hear your comments and feedback.   
 Email us on: sais-comms@kcl.ac.uk
 
-Connect with us on [LinkedIn](https://www.linkedin.com/company/sais-project/)
+Connect with us on [LinkedIn](https://www.linkedin.com/company/sais-project/) and [Twitter](https://twitter.com/SAIS_research)
 
