@@ -52,15 +52,21 @@ permalink: "/people/"
   </div>
 </div>
 <div class="row">
-  <div class="large-6 columns profile">
+  <div class="large-4 columns profile">
 	<img src="{{url}}/images/people/gsuareztangil.jpg">
 	<div>Guillermo Suarez-Tangil</div>
 	<div>Co-I</div>
 	King's College London
   </div>
-  <div class="large-6 columns profile">
+  <div class="large-4 columns profile">
 	<img src="{{url}}/images/people/bwilkinson.png">
 	<div>Benedict Wilkinson</div>
+	<div>Co-I</div>
+	King's College London
+  </div>
+    <div class="large-4 columns profile">
+	<img src="{{url}}/images/people/rabusalma.webp">
+	<div>Ruba Abu-Salma</div>
 	<div>Co-I</div>
 	King's College London
   </div>
@@ -74,6 +80,11 @@ permalink: "/people/"
 	<div>Research Associate</div>
 	King's College London
   </div>
-  <div class="large-4 columns">...</div>
-  <div class="large-4 columns">...</div>
+  <div class="large-4 columns profile"></div>
+  <div class="large-4 columns">
+  	<img src="{{url}}/images/people/mserramiaamoros.jpg">
+	  <div>Marc Serramia Amoros</div>
+	  <div>Research Associate</div>
+	King's College London
+  </div>
 </div>
