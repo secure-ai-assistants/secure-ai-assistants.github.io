@@ -16,6 +16,9 @@ William Seymour, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM 
 **Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.12900"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
 William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the ACM on Human-Computer Interaction April 2023 issue and presented at the 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 23).
 
+**Collaborative Filtering to Capture AI User’s Preferences as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/collaborative-filtering-to-capture-ai-users-preferences-as-norms(7aee932a-57ae-4942-9141-71deef71717d).html"></a>  <a class="icon-globe" href="https://link.springer.com/chapter/10.1007/978-3-031-21203-1_45"></a>** <br />
+Marc Serramia Amoros, Natalia Criado, and Michael Luck. 2022. In Proceedings of the 2022 International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 22).
+
 **Can you meaningfully consent in eight seconds? Identifying Ethical Issues with Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2206.11027"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3543829.3544521"></a>** <br />
 William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the 4th Conference on Conversational User Interfaces (CUI 22).
 
