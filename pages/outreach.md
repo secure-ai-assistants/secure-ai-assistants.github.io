@@ -17,7 +17,7 @@ In our research blogs series we tell the story of our research, present our find
 
 [Blog 1: Secure AI Assistants: why it matters and what we have learnt so far](https://secure-ai-assistants.github.io/outreach/blog1/)
 
-[Blog 2: Secure AI Assistants: why it matters and what we have learnt so far](https://secure-ai-assistants.github.io/outreach/blog2/)
+[Blog 2: Improving transparency in AI Assistants: Researching Alexa privacy and accountability to users](https://secure-ai-assistants.github.io/outreach/blog2/)
 
 ### Podcast 
 “Always Listening - Can I trust my AI Assistant?” is podcast series produced to address the normal concerns users of voice AI assistant as well as the business and academic communities have. Through example driven explanations and comments from the SAIS team and their industry partners we discuss the technology, privacy issues and future of the industry for a non-scientific audience. We explore essential questions about security and privacy in voice AI assistants, with a particular focus on data from users and the security and privacy implications that these raise. Highlights include explaining the AI Assistant ecosystem, looking at Amazon Alexa as an example, and highlighting security measures in place as well as areas to be aware of. 
