@@ -24,6 +24,8 @@ In our research blogs series we tell the story of our research, present our find
 
 [Episode 1: How do AI Assistants work?](/outreach/podcast1)
 
+[Episode 2: My data and controlling how it is used](/outreach/podcast2)
+
 <hr />
 
 Be part of the conversation - we would love to hear your comments and feedback.   
