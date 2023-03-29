@@ -10,6 +10,9 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
+**Predicting Privacy Preferences for Smart Devices as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/predicting-privacy-preferences-for-smart-devices-as-norms(79091364-468f-4bb5-9806-15c6237961bd).html"></a><!--<a class="icon-globe" href=""></a>-->** <br />
+Marc Serramia Amoros, William Seymour, Natalia Criado, and Michael Luck. 2023. In Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 23).
+
 **Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2301.08091"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
 William Seymour, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI 23).
 
