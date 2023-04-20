@@ -13,10 +13,10 @@ permalink: "/publications/"
 **Predicting Privacy Preferences for Smart Devices as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/predicting-privacy-preferences-for-smart-devices-as-norms(79091364-468f-4bb5-9806-15c6237961bd).html"></a><!--<a class="icon-globe" href=""></a>-->** <br />
 Marc Serramia Amoros, William Seymour, Natalia Criado, and Michael Luck. 2023. In Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 23).
 
-**Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2301.08091"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
+**Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2301.08091"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3544548.3580967"></a>** <br />
 William Seymour, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM CHI Conference on Human Factors in Computing Systems (CHI 23).
 
-**Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.12900"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
+**Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.12900"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3579497"></a>** <br />
 William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the ACM on Human-Computer Interaction April 2023 issue and presented at the 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 23).
 
 **Collaborative Filtering to Capture AI User’s Preferences as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/collaborative-filtering-to-capture-ai-users-preferences-as-norms(7aee932a-57ae-4942-9141-71deef71717d).html"></a>  <a class="icon-globe" href="https://link.springer.com/chapter/10.1007/978-3-031-21203-1_45"></a>** <br />
