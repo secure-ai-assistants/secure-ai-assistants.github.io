@@ -18,3 +18,10 @@
 	background-image: url(localhost:4000/images/epsrc.png);
 	height: 100px;
 }
+
+.centred {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 75%;
+}

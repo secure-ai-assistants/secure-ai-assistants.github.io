@@ -26,6 +26,19 @@ In our research blogs series we tell the story of our research, present our find
 
 [Episode 2: My data and controlling how it is used](/outreach/podcast2)
 
+### Exhibition at Science Gallery London
+We have been working with Salomé Bazin from Cellule Studio to create Sentient Beings, an evolving soundscape inviting us to question our relationship with AI assistants, how and where we use our voices and the value we place on them.
+
+<div><img src="{{url}}/images/science-gallery.png" class="centred"></div><br />
+
+As a society, the business model of convenience and utility in exchange for our personal data has become habituated in our day-to-day.
+
+Our voices are increasingly becoming a way in which we interact with digital tools - and by extension, the technological corporations who control them. How might this different, more conversational mode of interaction change the ways in which we give away our information? And what additional information might corporations glean from our voices?
+
+The ways in which corporations are able to extract and aggregate information from our voices is opaque. How much vocal data of yourself do think these corporations already have? It may be more than you expect.
+
+Sentient Beings is part of [AI: Who’s Looking After Me?](https://london.sciencegallery.com/ai-season) Opening 21 June at Science Gallery London.
+
 <hr />
 
 Be part of the conversation - we would love to hear your comments and feedback.   
