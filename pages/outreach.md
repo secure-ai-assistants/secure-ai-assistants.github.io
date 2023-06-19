@@ -26,6 +26,8 @@ In our research blogs series we tell the story of our research, present our find
 
 [Episode 2: My data and controlling how it is used](/outreach/podcast2)
 
+[Episode 3: Misinformation and the future of AI](/outreach/podcast3)
+
 ### Exhibition at Science Gallery London
 We have been working with Salomé Bazin from Cellule Studio to create Sentient Beings, an evolving soundscape inviting us to question our relationship with AI assistants, how and where we use our voices and the value we place on them.
 
@@ -38,6 +40,9 @@ Our voices are increasingly becoming a way in which we interact with digital too
 The ways in which corporations are able to extract and aggregate information from our voices is opaque. How much vocal data of yourself do think these corporations already have? It may be more than you expect.
 
 Sentient Beings is part of [AI: Who’s Looking After Me?](https://london.sciencegallery.com/ai-season) Opening 21 June at Science Gallery London.
+
+### Other
+Our work features in an article by the [Montreal AI Ethics Institute](https://montrealethics.ai/can-you-meaningfully-consent-in-eight-seconds-identifying-ethical-issues-with-verbal-consent-for-voice-assistants/)
 
 <hr />
 
