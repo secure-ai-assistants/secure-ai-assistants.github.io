@@ -10,13 +10,16 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
+**Misinformation in Third-party Voice Applications <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/misinformation-in-third-party-voice-applications"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
+Jide Edu, Jose Such, Guillermo Suarez-Tangil, Mary Bispham, Suliman Kalim Sattar, and Clara Zard. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
+
 **Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature <a class="icon-archive" href="https://arxiv.org/abs/2306.05228"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
 William Seymour, Xiao Zhan, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
 
 **Why Are Conversational Assistants Still Black Boxes? The Case For Transparency  <a class="icon-archive" href="https://arxiv.org/abs/2306.05218"></a>  <!--<a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3544548.3580967"></a>-->** <br />
 Trung Dong Huynh, William Seymour, Luc Moreau, and Jose Such. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
 
-**Predicting Privacy Preferences for Smart Devices as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/predicting-privacy-preferences-for-smart-devices-as-norms(79091364-468f-4bb5-9806-15c6237961bd).html"></a><a class="icon-globe" href="https://dl.acm.org/doi/abs/10.5555/3545946.3598904"></a>** <br />
+**Predicting Privacy Preferences for Smart Devices as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/predicting-privacy-preferences-for-smart-devices-as-norms(79091364-468f-4bb5-9806-15c6237961bd).html"></a> <a class="icon-globe" href="https://dl.acm.org/doi/abs/10.5555/3545946.3598904"></a>** <br />
 Marc Serramia Amoros, William Seymour, Natalia Criado, and Michael Luck. 2023. In Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 23).
 
 **Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2301.08091"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3544548.3580967"></a>** <br />
