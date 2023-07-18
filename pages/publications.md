@@ -10,13 +10,16 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-**Misinformation in Third-party Voice Applications <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/misinformation-in-third-party-voice-applications"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
+**Exploring the Security and Privacy Risks of Chatbots in Messaging Services <a class="icon-archive" href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/180463535/Polly_Discord.pdf"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3517745.3561433"></a>** <br />
+Jide Edu, Cliona Mulligan, Fabio Pierazzi, Jason Polakis, Guillermo Suarez-Tangil, and Jose Such. 2023. In Proceedings of the 2022 ACM Internet Measurement Conference (IMC 22).
+
+**Misinformation in Third-party Voice Applications <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/misinformation-in-third-party-voice-applications"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3571884.3604307"></a>** <br />
 Jide Edu, Jose Such, Guillermo Suarez-Tangil, Mary Bispham, Suliman Kalim Sattar, and Clara Zard. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
 
-**Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature <a class="icon-archive" href="https://arxiv.org/abs/2306.05228"></a>  <!--<a class="icon-globe" href=""></a>-->** <br />
+**Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature <a class="icon-archive" href="https://arxiv.org/abs/2306.05228"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3571884.3603760"></a>** <br />
 William Seymour, Xiao Zhan, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
 
-**Why Are Conversational Assistants Still Black Boxes? The Case For Transparency  <a class="icon-archive" href="https://arxiv.org/abs/2306.05218"></a>  <!--<a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3544548.3580967"></a>-->** <br />
+**Why Are Conversational Assistants Still Black Boxes? The Case For Transparency  <a class="icon-archive" href="https://arxiv.org/abs/2306.05218"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3571884.3604319"></a>** <br />
 Trung Dong Huynh, William Seymour, Luc Moreau, and Jose Such. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
 
 **Predicting Privacy Preferences for Smart Devices as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/predicting-privacy-preferences-for-smart-devices-as-norms(79091364-468f-4bb5-9806-15c6237961bd).html"></a> <a class="icon-globe" href="https://dl.acm.org/doi/abs/10.5555/3545946.3598904"></a>** <br />
