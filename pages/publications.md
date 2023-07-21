@@ -10,8 +10,8 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-**Exploring the Security and Privacy Risks of Chatbots in Messaging Services <a class="icon-archive" href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/180463535/Polly_Discord.pdf"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3517745.3561433"></a>** <br />
-Jide Edu, Cliona Mulligan, Fabio Pierazzi, Jason Polakis, Guillermo Suarez-Tangil, and Jose Such. 2023. In Proceedings of the 2022 ACM Internet Measurement Conference (IMC 22).
+**A Systematic Review of Ethical Concerns with Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.04193"></a>  <!--<a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3600211.3604679"></a>-->** <br />
+William Seymour, Xiao Zhan, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (AIES 23).
 
 **Misinformation in Third-party Voice Applications <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/misinformation-in-third-party-voice-applications"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3571884.3604307"></a>** <br />
 Jide Edu, Jose Such, Guillermo Suarez-Tangil, Mary Bispham, Suliman Kalim Sattar, and Clara Zard. 2023. In Proceedings of the 2023 ACM CUI Conference on Conversational User Interfaces (CUI 23).
@@ -30,6 +30,9 @@ William Seymour, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 ACM 
 
 **Ignorance is Bliss? The Effect of Explanations on Perceptions of Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.12900"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3579497"></a>** <br />
 William Seymour, Mark Cote, and Jose Such. 2022. In Proceedings of the ACM on Human-Computer Interaction April 2023 issue and presented at the 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW 23).
+
+**Exploring the Security and Privacy Risks of Chatbots in Messaging Services <a class="icon-archive" href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/180463535/Polly_Discord.pdf"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3517745.3561433"></a>** <br />
+Jide Edu, Cliona Mulligan, Fabio Pierazzi, Jason Polakis, Guillermo Suarez-Tangil, and Jose Such. 2022. In Proceedings of the 2022 ACM Internet Measurement Conference (IMC 22).
 
 **Collaborative Filtering to Capture AI User’s Preferences as Norms <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/collaborative-filtering-to-capture-ai-users-preferences-as-norms(7aee932a-57ae-4942-9141-71deef71717d).html"></a>  <a class="icon-globe" href="https://link.springer.com/chapter/10.1007/978-3-031-21203-1_45"></a>** <br />
 Marc Serramia Amoros, Natalia Criado, and Michael Luck. 2022. In Proceedings of the 2022 International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 22).
