@@ -44,7 +44,19 @@ The ways in which corporations are able to extract and aggregate information fro
 Sentient Beings is part of [AI: Who’s Looking After Me?](https://london.sciencegallery.com/ai-season) Opening 21 June at Science Gallery London.
 
 ### Other
-Our work features in an article by the [Montreal AI Ethics Institute](https://montrealethics.ai/can-you-meaningfully-consent-in-eight-seconds-identifying-ethical-issues-with-verbal-consent-for-voice-assistants/)
+We hosted a meetup of the [Conversational AI London](https://www.meetup.com/conversational-ai-london) group on 19/06/2023, with talks by Dr William Seymour and Dr Jide Edu from the SAIS project:
+
+* __Legal Obligation or Ethical Best Practice? Exploring Verbal Consent for Voice Assistants - William Seymour__
+
+_Alexa now offers "voice forward consent", allowing users to verbally agree to data sharing. This is great for usability, but not necessarily for making sure people understand and agree with what they're supposedly consenting to. At King's College London we've been building on work around informed consent and working with experts from academia, industry, and the public sector to sketch out requirements for better verbal consent for voice interfaces. In this talk I'll highlight some of the key themes around the (in)ability to opt-out, minimising consent decisions, and established consent principles._
+
+* __Assessing and Measuring Alexa Skill Privacy Practices - Jide Edu__
+
+_At King's we've also been systematically tracking skills in the Alexa ecosystem, looking at the use of permissions by tens of thousands of Alexa developers and and measuring how well these match up with what's reported by developers in privacy policies. Our tracability tool, SkillVet, has identified thousands of potentially over-privileged skills and bad privacy practices and can help developers proactively audit their skill data practices. In this talk I'll also discuss how we've also been exploring patterns in how developers (re)use invocation names across marketplaces and measuring phonetic similarity and density of invocations._
+
+Conversational AI London is a group "for developers, designers, data scientists, growth hackers, writers, product geeks and generally curious people interested in voice assistants, chatbots and conversational AI."
+
+Our work also features in an article by the [Montreal AI Ethics Institute](https://montrealethics.ai/can-you-meaningfully-consent-in-eight-seconds-identifying-ethical-issues-with-verbal-consent-for-voice-assistants/)
 
 <hr />
 
