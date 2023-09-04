@@ -21,6 +21,11 @@ In our research blogs series we tell the story of our research, present our find
 
 [Blog 3: Legal Obligation and Ethical Best Practice: Towards Meaningful Verbal Consent for Voice Assistants](https://secure-ai-assistants.github.io/outreach/blog3/)
 
+[Research Summary: Can You Meaningfully Consent in Eight Seconds?](https://montrealethics.ai/can-you-meaningfully-consent-in-eight-seconds-identifying-ethical-issues-with-verbal-consent-for-voice-assistants/)
+
+[Research Summary: A Systematic Review of Ethical Concerns with Voice Assistants](https://montrealethics.ai/a-systematic-review-of-ethical-concerns-with-voice-assistants/)
+
+
 ### Podcast 
 “Always Listening - Can I trust my AI Assistant?” is podcast series produced to address the normal concerns users of voice AI assistant as well as the business and academic communities have. Through example driven explanations and comments from the SAIS team and their industry partners we discuss the technology, privacy issues and future of the industry for a non-scientific audience. We explore essential questions about security and privacy in voice AI assistants, with a particular focus on data from users and the security and privacy implications that these raise. Highlights include explaining the AI Assistant ecosystem, looking at Amazon Alexa as an example, and highlighting security measures in place as well as areas to be aware of. 
 
@@ -55,8 +60,6 @@ _Alexa now offers "voice forward consent", allowing users to verbally agree to d
 _At King's we've also been systematically tracking skills in the Alexa ecosystem, looking at the use of permissions by tens of thousands of Alexa developers and and measuring how well these match up with what's reported by developers in privacy policies. Our tracability tool, SkillVet, has identified thousands of potentially over-privileged skills and bad privacy practices and can help developers proactively audit their skill data practices. In this talk I'll also discuss how we've also been exploring patterns in how developers (re)use invocation names across marketplaces and measuring phonetic similarity and density of invocations._
 
 Conversational AI London is a group "for developers, designers, data scientists, growth hackers, writers, product geeks and generally curious people interested in voice assistants, chatbots and conversational AI."
-
-Our work also features in an article by the [Montreal AI Ethics Institute](https://montrealethics.ai/can-you-meaningfully-consent-in-eight-seconds-identifying-ethical-issues-with-verbal-consent-for-voice-assistants/)
 
 <hr />
 

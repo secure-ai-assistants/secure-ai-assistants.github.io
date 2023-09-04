@@ -10,7 +10,7 @@ permalink: "/publications/"
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-**A Systematic Review of Ethical Concerns with Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.04193"></a>  <!--<a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3600211.3604679"></a>-->** <br />
+**A Systematic Review of Ethical Concerns with Voice Assistants <a class="icon-archive" href="https://arxiv.org/abs/2211.04193"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3600211.3604679"></a>** <br />
 William Seymour, Xiao Zhan, Mark Cote, and Jose Such. 2023. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society (AIES 23).
 
 **Misinformation in Third-party Voice Applications <a class="icon-archive" href="https://kclpure.kcl.ac.uk/portal/en/publications/misinformation-in-third-party-voice-applications"></a>  <a class="icon-globe" href="https://dl.acm.org/doi/10.1145/3571884.3604307"></a>** <br />
